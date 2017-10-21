@@ -1,0 +1,13 @@
+1 piece of bread
+1 toaster
+1 selection of condiment, i.e., butter, jelly, jam, etc.
+1 utensil
+
+directions:
+	1) put bread in toaster
+	2) set toaster heat level (you figure it out)
+	3) push toaster button to begin toasting
+	4) wait - but don't watch the toaster. Remember - the watched pot never boils.
+	5) apply the condiment of your choice
+	6) enjoy
+	
